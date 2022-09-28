@@ -1,2 +1,2 @@
 # reset
-Ejemplo
+Ejemplo de repositorio para 3DS
